@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Driving Angel</string>
+    <string name="title_home">Home</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="profile_saved">User Profile Saved Successfully!</string>
+    <string name="add_heartRate">Add heart rate</string>
+
+    <string name="wearable_device_is_connected">Wearable device is connected</string>
+    <string name="check_for_connected_wearables">Check for connected wearables</string>
+    <string name="app_description">Driving Angel will alert you if it detects signs of drowsiness through your heart beats</string>
+</resources>
